@@ -4,6 +4,6 @@ public class Hello {
         obj.call();
     }
     public void call(){
-        System.out.print("Hello!");
+        System.out.print( "Hello!" );
     }
 }
