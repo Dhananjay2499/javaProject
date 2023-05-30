@@ -6,11 +6,8 @@ public class Factorial {
         System.out.print("Give a number to calculate factorial: ");
         long input = sc.nextInt();
 
-        if (input < 0) {
-            System.out.print("Invalid number for a factorial");
-        } else {
-            System.out.print("Factorial of " + input + " is " + fib(input));
-        }
+        if (input < 0) System.out.print("Invalid number for a factorial");
+        else System.out.print("Factorial of " + input + " is " + fib(input));
     }
 
     public static long fib(long num) {
