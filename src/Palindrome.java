@@ -18,12 +18,12 @@ public class Palindrome {
     }
 
     public static boolean pal(int get) {
-        int st = get;
+        int st = get; //store
         int output = 0;
         while (st > 0) {
-            int temp = st % 10;
-            output = (output * 10) + temp;
-            st = st / 10;
+            int temp = st % 10; //store last digit(e.g. 121-> temp=1)
+            output = (output * 10) + temp; //(e.g.  output= (0*10)+1=1 -> (1*10)+2=12 )
+            st = st / 10; // reduce by 1 digit
         }
         return (output==get);
     }
