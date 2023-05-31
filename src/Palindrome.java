@@ -7,8 +7,7 @@ public class Palindrome {
         int input = sc.nextInt();
 
         if (input >= 9) {
-            int output = pal(input);
-            if (output==input) {
+            if (pal(input)) {
                 System.out.print(input + " number is a Palindrome!\n" + input + " | " + input);
             } else {
                 System.out.print(input + " number is not Palindrome!");
@@ -18,7 +17,7 @@ public class Palindrome {
         }
     }
 
-    public static int pal(int get) {
+    public static boolean pal(int get) {
         int st = get;
         int output = 0;
         while (st > 0) {
@@ -26,6 +25,6 @@ public class Palindrome {
             output = (output * 10) + temp;
             st = st / 10;
         }
-        return output;
+        return (output==get);
     }
 }
