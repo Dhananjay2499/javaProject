@@ -10,7 +10,7 @@ public class Palindrome {
             if (pal(input)) {
                 System.out.print(input + " number is a Palindrome!\n" + input + " | " + input);
             } else {
-                System.out.print(input + " number is not Palindrome!");
+                System.out.print(input + " number is not a Palindrome!");
             }
         } else {
             System.out.print("Number is not greater than 9");
