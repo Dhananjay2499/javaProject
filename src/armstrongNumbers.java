@@ -8,8 +8,7 @@ public class armstrongNumbers {
 
         System.out.println("Armstrong Numbers up to given number-> ");
         for (int i = 1; i <= input; i++) {
-            int power = 0;
-            power = getPow(i); //Get power of a 10 number
+            int power = getPow(i); //Get power of a 10 number
             if (armSt(i, power)) {
                 System.out.print(i + " ");
             }
