@@ -6,9 +6,9 @@ public class armstrongNumbers {
         System.out.print("Give a max range to check an Armstrong Number ");
         int input = sc.nextInt();
 
-        System.out.println("Armstrong Numbers up to given number-> ");
+        System.out.print("Armstrong Numbers up to given number-> ");
         for (int i = 1; i <= input; i++) {
-            int power = getPow(i); //Get power of a 10 number
+            int power = getPow(i); //Get power of a number
             if (armSt(i, power)) {
                 System.out.print(i + " ");
             }
