@@ -12,9 +12,7 @@ public class armstrongNumbers {
             if (armSt(i, power)) {
                 System.out.print(i + " ");
             }
-
         }
-
     }
 
     public static int getPow(int input) {
