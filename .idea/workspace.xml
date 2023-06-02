@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4005768-2bc2-4a50-8f52-0c963caf5fce" name="Changes" comment="28-05-2023 Java project.">
+      <change afterPath="$PROJECT_DIR$/src/enumExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/armstrongNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/armstrongNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.armstrongNumbers">
+  <component name="RunManager" selected="Application.enumExample">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="Hello" />
@@ -74,13 +74,6 @@
     </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Palindrome" />
-      <module name="Hello" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Static_Instance_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Static_Instance_Method" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,13 +93,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="enumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumExample" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.enumExample" />
         <item itemvalue="Application.armstrongNumbers" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.countNumber" />
         <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.Static_Instance_Method" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +350,35 @@
       <option name="project" value="LOCAL" />
       <updated>1685685679106</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="28-05-2023 Java project.">
+      <created>1685685792748</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1685685792748</updated>
+    </task>
+    <task id="LOCAL-00035" summary="28-05-2023 Java project.">
+      <created>1685685798914</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1685685798914</updated>
+    </task>
+    <task id="LOCAL-00036" summary="28-05-2023 Java project.">
+      <created>1685685842399</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1685685842399</updated>
+    </task>
+    <task id="LOCAL-00037" summary="28-05-2023 Java project.">
+      <created>1685716544771</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1685716544771</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
