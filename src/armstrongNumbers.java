@@ -7,7 +7,7 @@ public class armstrongNumbers {
         System.out.print("Give a max range to check an Armstrong Number ");
         int input = sc.nextInt();
 
-        System.out.print("Armstrong Numbers up to given number-> ");
+        System.out.print("Armstrong Numbers up to the given number-> ");
 
         for (int i = 1; i <= input; i++) {
             int power = String.valueOf(i).length(); //Get power of a number
