@@ -10,11 +10,19 @@ public class armstrongNumbers {
         System.out.print("Armstrong Numbers up to given number-> ");
 
         for (int i = 1; i <= input; i++) {
-            int power = String.valueOf(i).length(); //Get power of a number
+            int power = power(i);// String.valueOf(i).length(); //Get power of a number
             if (armSt(i, power)) {
                 System.out.print(i + " ");
             }
         }
+    }
+    public static int power(int input) {
+        int power = 0;
+        while (input > 0) {
+            input /= 10;
+            power++;
+        }
+        return power;
     }
     public static boolean armSt(int input, int power) {
         int output = 0;
