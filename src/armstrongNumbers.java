@@ -3,12 +3,14 @@ import java.util.Scanner;
 public class armstrongNumbers {
     public static void main(String[] a) {
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Give a max range to check an Armstrong Number ");
         int input = sc.nextInt();
+
         System.out.print("Armstrong Numbers up to given number-> ");
+
         for (int i = 1; i <= input; i++) {
-            String count = String.valueOf(i);
-            int power = count.length(); //Get power of a number
+            int power = String.valueOf(i).length(); //Get power of a number
             if (armSt(i, power)) {
                 System.out.print(i + " ");
             }
