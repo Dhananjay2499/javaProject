@@ -1,0 +1,29 @@
+public class enumExample {
+    public static void main(String[] arg) {
+        enum Days {SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY}
+
+// access content in an Enum
+        Days d = Days.FRIDAY;
+        System.out.println(d);
+//Access the Enum within main()
+        for (Days dys : Days.values()) {
+            System.out.print(dys + " ");
+        }
+        System.out.println();
+//Access the Enum outside main()
+        for (Month m : Month.values()) {
+            System.out.print(m + " ");
+        }
+        System.out.println();
+//Access the Enum outside Class
+        for (Season s : Season.values()) {
+            System.out.print(s + " ");
+        }
+    }
+
+    //Enum outside main()
+    public enum Month {JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEPT, OCT, NOV, DEC}
+}
+
+//Enum outside Class
+enum Season {WINTER, SPRING, SUMMER, FALL}
