@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4005768-2bc2-4a50-8f52-0c963caf5fce" name="Changes" comment="28-05-2023 Java project.">
-      <change beforePath="$PROJECT_DIR$/src/strVarVsObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strVarVsObj.java" afterDir="false" />
+    <list default="true" id="e4005768-2bc2-4a50-8f52-0c963caf5fce" name="Changes" comment="03-06-2023 Java project.">
+      <change beforePath="$PROJECT_DIR$/src/armstrongNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/armstrongNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -422,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685775177517</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="03-06-2023 Java project.">
+      <created>1685775250682</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1685775250683</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -466,7 +473,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="28-05-2023 1st Java project." />
     <MESSAGE value="28-05-2023 Java project." />
-    <option name="LAST_COMMIT_MESSAGE" value="28-05-2023 Java project." />
+    <MESSAGE value="03-06-2023 Java project." />
+    <option name="LAST_COMMIT_MESSAGE" value="03-06-2023 Java project." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
