@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4005768-2bc2-4a50-8f52-0c963caf5fce" name="Changes" comment="28-05-2023 Java project.">
-      <change afterPath="$PROJECT_DIR$/src/enumExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strVarVsObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strVarVsObj.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/staticMethod.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2QQQvCO04eyolQwC1lldCoKF1v3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -64,7 +67,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.enumExample">
+  <component name="RunManager" selected="Application.strVarVsObj">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="Hello" />
@@ -86,13 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="countNumber" />
-      <module name="Hello" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="enumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enumExample" />
       <module name="Hello" />
@@ -100,13 +96,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="strVarVsObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strVarVsObj" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.strVarVsObj" />
         <item itemvalue="Application.enumExample" />
+        <item itemvalue="Application.Hello" />
         <item itemvalue="Application.armstrongNumbers" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.countNumber" />
-        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +381,35 @@
       <option name="project" value="LOCAL" />
       <updated>1685716544771</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="28-05-2023 Java project.">
+      <created>1685717644173</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1685717644173</updated>
+    </task>
+    <task id="LOCAL-00039" summary="28-05-2023 Java project.">
+      <created>1685717656023</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1685717656023</updated>
+    </task>
+    <task id="LOCAL-00040" summary="28-05-2023 Java project.">
+      <created>1685718050884</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1685718050884</updated>
+    </task>
+    <task id="LOCAL-00041" summary="28-05-2023 Java project.">
+      <created>1685766931249</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1685766931249</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
