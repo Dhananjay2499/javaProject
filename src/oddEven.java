@@ -7,19 +7,20 @@ public class oddEven {
         int input = new Scanner(System.in).nextInt();
 
         System.out.println("Even numbers up to "+input+" are : ");
-        cal(input,false);
+        System.out.println(cal(input,false));
         System.out.println("Odd numbers up to "+input+" are : ");
-        cal(input, true);
+        System.out.println(cal(input, true));
 
     }
-    public static void cal(int in, boolean flag){
+    public static String cal(int in, boolean flag){
+        StringBuilder string = new StringBuilder();
         for (int i = 0; i <=in; i++) {
             if (i%2 == 0 && !flag){
-             System.out.print(" "+ i );
+                string.append(" ").append(i);
             } else if (i%2 != 0 && flag) {
-                System.out.print(" "+ i );
+                string.append(" ").append(i);
             }
         }
-        System.out.println();
+        return String.valueOf(string);
     }
 }
