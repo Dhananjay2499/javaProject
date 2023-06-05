@@ -1,6 +1,11 @@
+
 /*  Armstrong number is the number in any given number base,
     which forms the total of the same number,
     when each of its digits is raised to the power of the number of digits in the number
+
+    e.g. 153 -> 1^3 + 5^3 + 3^3 = 153
+         1634 -> 1^4 + 6^4 + 3^4 + 4^4 = 1634
+
 */
 
 import java.util.Scanner;
