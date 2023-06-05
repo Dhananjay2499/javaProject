@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4005768-2bc2-4a50-8f52-0c963caf5fce" name="Changes" comment="02-06-2023 Java project.">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="e4005768-2bc2-4a50-8f52-0c963caf5fce" name="Changes" comment="04-06-2023">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +66,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.strVarVsObj">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
+  <component name="RunManager" selected="Application.countNumber">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,15 +88,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="enumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumExample" />
+    <configuration name="countNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countNumber" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="strVarVsObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strVarVsObj" />
+    <configuration name="oddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oddEven" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.strVarVsObj" />
-        <item itemvalue="Application.enumExample" />
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.armstrongNumbers" />
+        <item itemvalue="Application.countNumber" />
         <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.oddEven" />
+        <item itemvalue="Application.armstrongNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -443,7 +443,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685775386932</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="30-05-2023 Java project.">
+      <created>1685775494430</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1685775494430</updated>
+    </task>
+    <task id="LOCAL-00048" summary="04-06-2023">
+      <created>1685858247432</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1685858247432</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,7 +504,9 @@
     <MESSAGE value="03-06-2023 Java project." />
     <MESSAGE value="01-06-2023 Java project." />
     <MESSAGE value="02-06-2023 Java project." />
-    <option name="LAST_COMMIT_MESSAGE" value="02-06-2023 Java project." />
+    <MESSAGE value="30-05-2023 Java project." />
+    <MESSAGE value="04-06-2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="04-06-2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
