@@ -1,5 +1,5 @@
 /*
-A palindromic number is a number that remains the same when its digits are reversed.
+    A palindromic number is a number that remains the same when its digits are reversed.
 */
 
 import java.util.Scanner;
