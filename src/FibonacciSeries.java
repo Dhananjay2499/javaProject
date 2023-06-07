@@ -6,9 +6,9 @@
 import java.util.Scanner;
 
 public class FibonacciSeries {
-    public static void main(String[] a){
+    public static void main(String[] arr){
         Scanner scan = new Scanner(System.in);
-        System.out.print("Give a number: ");
+        System.out.print("Give arr number: ");
         int input = scan.nextInt();
         System.out.println(fib(input));
     }
