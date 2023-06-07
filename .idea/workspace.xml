@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4005768-2bc2-4a50-8f52-0c963caf5fce" name="Changes" comment="04-06-2023">
+    <list default="true" id="e4005768-2bc2-4a50-8f52-0c963caf5fce" name="Changes" comment="06-06-2023">
+      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +41,7 @@
     <setting file="file://$PROJECT_DIR$/src/staticMethod.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2QQQvCO04eyolQwC1lldCoKF1v3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -66,37 +68,37 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.countNumber">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factorial" />
+  <component name="RunManager" selected="Application.FibonacciSeries">
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern1" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="armstrongNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="armstrongNumbers" />
+    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern2" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="countNumber" />
+    <configuration name="Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern3" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oddEven" />
+    <configuration name="Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern4" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.countNumber" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.oddEven" />
-        <item itemvalue="Application.armstrongNumbers" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.Pattern4" />
+        <item itemvalue="Application.Pattern3" />
+        <item itemvalue="Application.Pattern2" />
+        <item itemvalue="Application.Pattern1" />
       </list>
     </recent_temporary>
   </component>
@@ -120,69 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685283556945</updated>
-    </task>
-    <task id="LOCAL-00001" summary="28-05-2023 1st Java project.">
-      <created>1685285465444</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1685285465444</updated>
-    </task>
-    <task id="LOCAL-00002" summary="28-05-2023 1st Java project.">
-      <created>1685286279167</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1685286279167</updated>
-    </task>
-    <task id="LOCAL-00003" summary="28-05-2023 1st Java project.">
-      <created>1685287068573</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1685287068573</updated>
-    </task>
-    <task id="LOCAL-00004" summary="28-05-2023 1st Java project.">
-      <created>1685287591722</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1685287591722</updated>
-    </task>
-    <task id="LOCAL-00005" summary="28-05-2023 1st Java project.">
-      <created>1685287746387</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1685287746387</updated>
-    </task>
-    <task id="LOCAL-00006" summary="28-05-2023 1st Java project.">
-      <created>1685288169162</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1685288169162</updated>
-    </task>
-    <task id="LOCAL-00007" summary="28-05-2023 Java project.">
-      <created>1685329280607</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1685329280607</updated>
-    </task>
-    <task id="LOCAL-00008" summary="28-05-2023 Java project.">
-      <created>1685330118711</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1685330118711</updated>
-    </task>
-    <task id="LOCAL-00009" summary="28-05-2023 Java project.">
-      <created>1685331300904</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1685331300904</updated>
     </task>
     <task id="LOCAL-00010" summary="28-05-2023 Java project.">
       <created>1685331507674</created>
@@ -457,7 +396,77 @@
       <option name="project" value="LOCAL" />
       <updated>1685858247432</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="05-06-2023">
+      <created>1685962540499</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1685962540500</updated>
+    </task>
+    <task id="LOCAL-00050" summary="05-06-2023">
+      <created>1685963492268</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1685963492269</updated>
+    </task>
+    <task id="LOCAL-00051" summary="05-06-2023">
+      <created>1685972555765</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1685972555765</updated>
+    </task>
+    <task id="LOCAL-00052" summary="05-06-2023">
+      <created>1685972883722</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1685972883722</updated>
+    </task>
+    <task id="LOCAL-00053" summary="05-06-2023">
+      <created>1685973174404</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1685973174404</updated>
+    </task>
+    <task id="LOCAL-00054" summary="05-06-2023">
+      <created>1685973254744</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1685973254744</updated>
+    </task>
+    <task id="LOCAL-00055" summary="05-06-2023">
+      <created>1685973325414</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1685973325414</updated>
+    </task>
+    <task id="LOCAL-00056" summary="06-06-2023">
+      <created>1686025175445</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1686025175446</updated>
+    </task>
+    <task id="LOCAL-00057" summary="06-06-2023">
+      <created>1686025418282</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1686025418282</updated>
+    </task>
+    <task id="LOCAL-00058" summary="06-06-2023">
+      <created>1686026399168</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1686026399168</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,7 +515,9 @@
     <MESSAGE value="02-06-2023 Java project." />
     <MESSAGE value="30-05-2023 Java project." />
     <MESSAGE value="04-06-2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="04-06-2023" />
+    <MESSAGE value="05-06-2023" />
+    <MESSAGE value="06-06-2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="06-06-2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -515,6 +526,11 @@
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FibonacciSeries.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
